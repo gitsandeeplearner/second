@@ -1,0 +1,9 @@
+This is my first file created with git command.
+ashrit
+Now I am going to check the git status.
+Ok fine, I checked the git status earlier it was showing the status as untracked, but now it is still showing the status as untracked even after git add command, but now the status is in modified untracked.
+Now again I am going to check the git status. 
+Status checked, now I am going to add this file in the staging area.
+Now I also added the notes file in the staging area.
+let me again check the git status
+There will be two status for untracked files: modified and untracked.
