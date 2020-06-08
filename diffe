@@ -1,3 +1,4 @@
 This code is in the local repo.
 Now second line is added.
 This is the third line which is not added in the staging area and so not in the local repo.
+File added in the .gitignore..
